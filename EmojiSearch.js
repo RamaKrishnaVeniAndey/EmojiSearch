@@ -49,38 +49,8 @@ import React, { useState } from 'react'
         id : 10,
         symbol : "❤️",
         name : "love ",
-    },
-    {
-        id : 11,
-        symbol : "🦍",
-        name : "Hema Dasari",
-    },
-    {
-        id : 12,
-        symbol : "🐖",
-        name : "Ramesh Andey ",
-    },
-    {
-        id : 13,
-        symbol : "",
-        name : " yedhava ",
-    },
-    {
-        id : 13,
-        symbol : "🐹",
-        name : "Raji Dusanapudi ",
-    },
-    {
-        id : 14,
-        symbol : "🦣",
-        name : "Vidya karna ",
-    },
-    {
-        id : 1,
-        symbol : "",
-        name : " ",
-    },
-
+    }
+    
  ]
 function EmojiSearch() {
       const [searchEmoji,setSearchEmoji] = useState("")
